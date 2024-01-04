@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+  
+nav{
+  text-align: center;
+  pad: 10px;
+}
+
+img{
+  display: block;
+  width: auto;
+  margin: auto;
+}
+
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightgray;
+}
+
+figcaption{
+  text-align: center ;
+  font-size: small;
+}
+
+.textbox{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+div{
+  float: left;
+  width:25%;
+  background: red;
+  text-align: center;
+}
+
+
+
